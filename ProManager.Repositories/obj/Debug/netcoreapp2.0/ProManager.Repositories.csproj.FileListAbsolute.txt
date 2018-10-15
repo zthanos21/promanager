@@ -1,0 +1,17 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Repositories.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Repositories.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Repositories.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Enumerators.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Entities.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.Enumerators.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\obj\Debug\netcoreapp2.0\ProManager.Repositories.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.IRepositories.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Repositories\bin\Debug\netcoreapp2.0\ProManager.IRepositories.pdb

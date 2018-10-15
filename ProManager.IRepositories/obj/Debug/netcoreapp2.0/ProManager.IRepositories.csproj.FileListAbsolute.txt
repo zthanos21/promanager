@@ -1,0 +1,15 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.IRepositories.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.IRepositories.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.IRepositories.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.Entities.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.csprojResolveAssemblyReference.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\obj\Debug\netcoreapp2.0\ProManager.IRepositories.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.Enumerators.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.IRepositories\bin\Debug\netcoreapp2.0\ProManager.Enumerators.pdb

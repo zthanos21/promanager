@@ -1,0 +1,9 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\bin\Debug\netcoreapp2.0\ProManager.Enumerators.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\bin\Debug\netcoreapp2.0\ProManager.Enumerators.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\bin\Debug\netcoreapp2.0\ProManager.Enumerators.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Enumerators\obj\Debug\netcoreapp2.0\ProManager.Enumerators.csprojResolveAssemblyReference.cache

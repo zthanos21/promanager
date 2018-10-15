@@ -1,0 +1,14 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManagerApiCore.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManagerApiCore.runtimeconfig.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManagerApiCore.runtimeconfig.dev.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManagerApiCore.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManagerApiCore.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.csprojResolveAssemblyReference.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\obj\Debug\netcoreapp2.0\ProManagerApiCore.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManagerApiCore\bin\Debug\netcoreapp2.0\ProManager.Entities.pdb

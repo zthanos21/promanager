@@ -1,0 +1,13 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.DataTransferObjects.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.Enumerators.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.Enumerators.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\obj\Debug\netcoreapp2.0\ProManager.DataTransferObjects.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.DataTransferObjects\bin\Debug\netcoreapp2.0\ProManager.Entities.pdb

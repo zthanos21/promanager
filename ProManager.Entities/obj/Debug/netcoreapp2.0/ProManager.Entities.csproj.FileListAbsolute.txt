@@ -1,0 +1,9 @@
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\bin\Debug\netcoreapp2.0\ProManager.Entities.deps.json
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\bin\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\bin\Debug\netcoreapp2.0\ProManager.Entities.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.AssemblyInfoInputs.cache
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.AssemblyInfo.cs
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.dll
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.pdb
+C:\Users\sales\Source\Repos\ProManagerApiCore\ProManager.Entities\obj\Debug\netcoreapp2.0\ProManager.Entities.csprojResolveAssemblyReference.cache
